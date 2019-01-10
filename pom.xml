@@ -57,11 +57,11 @@
 			<id>deployment</id>
 			<name>Release</name>
 			<url>http://192.168.99.101:8081/repository/ec2-games-RELEASE/</url>
-		<repository>
+		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
 			<name>Release</name>
 			<url>http://192.168.99.101:8081/repository/ec2-games-SNAPSHOT/</url>
-		<snapshotRepository>
+		</snapshotRepository>
 	</distributionManagement>
 </project>
